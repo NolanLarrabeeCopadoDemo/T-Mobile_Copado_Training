@@ -177,6 +177,7 @@
                 <value>
                     <fullName>Sold</fullName>
                     <default>false</default>
+                    <isActive>false</isActive>
                     <label>Sold</label>
                 </value>
             </valueSetDefinition>
@@ -234,10 +235,6 @@
             </values>
             <values>
                 <fullName>In Development</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Sold</fullName>
                 <default>false</default>
             </values>
         </picklistValues>
